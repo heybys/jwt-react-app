@@ -1,7 +1,9 @@
 const PostPage = () => {
   return (
       <>
-        <header>Posts</header>
+        <h1 className="text-3xl font-bold underline">
+          Post
+        </h1>
         <div>
           name: Test Post
         </div>
